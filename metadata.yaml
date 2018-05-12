@@ -1,0 +1,32 @@
+_repo: Famous-Privateersmen-and-Adventurers-of-the-Seaupon-the-ocean-for-patriotism-and-for-treasure_26960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Charles H. L. (Charles Haven Ladd)
+    aliases:
+    - Johnston, C. H. L. (Charles Haven Ladd)
+    - Johnston, Charles Haven Ladd
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '32363'
+    url: http://www.gutenberg.org/2009/agents/32363
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Privateering'
+- !lcc 'D'
+- !lcsh 'Buccaneers'
+title: "Famous Privateersmen and Adventurers of the Sea\r\nTheir rovings, cruises,\
+  \ escapades, and fierce battling upon the ocean for patriotism and for treasure"
+url: http://www.gutenberg.org/ebooks/26960
